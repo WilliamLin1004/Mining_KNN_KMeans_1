@@ -7,8 +7,12 @@ Lazy learners, unsupervised learning are the terms used during class to describe
 ## Clustering
 K-Means and Agglomerative clustering were introduced. There are numerous criterion used in agglomerative clustering, some of which are single-linkage, complete-linkage,...etc.
 
+## MatPlotLib
+Used to visualize clustering.
+
 ## Keywords
 * KNN
 * K-Means
 * Agglomerative Clustering
+* MatPlotLib
 
